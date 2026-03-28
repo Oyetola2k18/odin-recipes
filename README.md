@@ -1,0 +1,2 @@
+# odin-recipes
+this is my first project in the odin project course
